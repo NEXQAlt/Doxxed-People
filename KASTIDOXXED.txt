@@ -1,0 +1,249 @@
+⠀⠀⠀⠀⠀⠀⠀⠀⣠⡤⠶⠶⠶⠶⠶⢶⣶⣶⣶⣶⣶⣶⣶⠶⠦⢤⣤⣤⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⣠⡞⠉⠀⠀⢀⠤⢐⣊⠭⠄⠀⠒⠐⠢⠤⠬⠍⡉⢉⠩⠭⠭⠭⠭⡛⠶⣤⡀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⣰⠏⠀⢀⠤⢊⠴⡪⠕⠂⠈⠉⠉⠈⠙⡀⠀⠀⠀⠀⢖⠒⠂⠉⠒⠤⡀⠀⠀⠙⣦⠀⠀⠀
+⠀⠀⠀⢀⣴⠏⠀⠀⠀⠀⠁⠊⣀⣤⣴⣶⣶⠶⣤⣀⠁⠀⠀⠀⠀⠎⠀⣀⣀⣀⡀⠘⠀⠀⠀⢿⡄⠀⠀
+⠀⢀⣴⡿⠟⠒⣦⣀⣀⠒⠆⠺⠿⠿⢻⠛⠻⣶⣤⣙⡷⠀⠀⢠⣤⣶⣿⡿⠿⠿⠿⠃⠒⠒⢢⠤⡙⢶⡀
+⢀⡿⢹⠁⣴⠟⠉⣹⡙⠛⠶⠦⢤⢶⡏⠐⢀⠇⠀⠉⠀⠀⠀⠀⠈⣿⠀⠀⠀⣀⣀⣠⡶⡶⢶⡝⡌⢾⡇
+⠘⡇⢠⠐⣏⢠⣴⣿⠛⠶⣤⣀⡀⣸⠃⠄⣼⠴⣴⠶⠆⠀⠀⠀⠀⠙⢳⣦⡀⠈⠉⠉⢰⣇⠀⠠⠃⣾⡇
+⠈⢿⡌⢆⡻⠀⠀⡿⠦⣄⠈⢹⡟⡏⠀⢠⣧⣀⣻⡆⠛⠛⠃⠠⣄⣤⠞⠋⠉⠑⢂⣠⣾⣿⡆⠐⢪⡿⠁
+⠀⠀⠹⣶⡂⠀⢰⠁⣀⣪⠟⢿⣍⠀⠀⢸⡈⣿⠙⠛⠳⠶⣶⠶⠿⣧⣦⠴⠶⣾⠛⢹⡙⣿⡇⠀⣾⠁⠀
+⠀⠀⠀⠈⢿⣄⡞⢸⡎⠁⠀⢺⠘⠀⠀⠈⠻⠿⣶⣤⣤⣤⣿⣤⣤⣼⣧⣤⣤⣾⣶⣾⣿⣿⡇⠀⣿⠀⠀
+⠀⠀⠀⠀⠀⢻⡤⣿⢀⠀⠀⣿⠀⠀⠀⠀⠀⡄⠘⡍⠙⣿⠻⠿⠿⣿⡿⢿⣿⡿⣿⢿⣿⣿⠁⠀⣿⠀⠀
+⠀⠀⠀⠀⠀⠈⢻⣣⠂⠀⠀⡏⡄⠀⢀⡇⠀⡇⠀⠙⣄⣿⡀⠀⢀⣟⠀⣰⣏⣰⣯⣬⠿⠃⠀⠀⣿⠀⠀
+⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠰⠃⠄⠀⢸⠀⠀⢹⠀⠀⠻⡉⠉⠉⠉⠉⠉⠉⠉⠉⠀⣀⠔⠀⢠⠀⢻⠀⠀
+⠀⠀⠀⠀⠀⠀⠘⣇⠀⠀⠀⡘⠀⠀⠀⠀⠀⠀⠀⠀⠀⡿⠤⠆⣐⣂⣒⡒⢂⢂⠈⣁⡠⠔⠁⠀⣸⠃⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠑⠢⣜⠰⠀⠀⠀⠁⠀⠀⠀⢀⣸⣥⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⠟⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠓⢤⣀⠐⠠⢀⢠⡴⠋⠀⠀⠉⠉⠛⠛⠲⠶⠶⠶⠶⠶⠲⠚⠋⠁⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠛⠛⠉⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+——————— Made By Celnik__ ———————
+KASTI LEAK 2025 Wkurwil mnie to niech teraz przeprasza : 
+
+                       Information of kasti : 
+Facebook: https://www.facebook.com/share/1Ag8QXK3BM/?mibextid=wwXIfr
+Name: Kacper
+Last Name: Waśkowicz
+His Dad: https://www.facebook.com/share/1BXUCjj1At/?mibextid=wwXIf
+His Mom: https://www.facebook.com/share/1HJcHJUUg8/?mibextid=wwXIfr
+
+                      Ip Information :
+
+{
+  "ip": "178.212.218.20",
+  "hostname": "ip-178-212-218-20.ambit24.net",
+  "city": "Lubartów",
+  "region": "Lublin",
+  "country": "PL",
+  "loc": "51.4603,22.6095",
+  "postal": "21-100",
+  "timezone": "Europe/Warsaw",
+  "asn": {
+    "asn": "AS197262",
+    "name": "AMBIT SYSTEMY INFORMATYCZNE SP. Z O.O.",
+    "domain": "ambit24.net",
+    "route": "178.212.216.0/21",
+    "type": "isp"
+  },
+  "company": {
+    "name": "AMBIT SYSTEMY INFORMATYCZNE SP. Z O.O.",
+    "domain": "ambit24.net",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Ambit Systemy Informatyczne Sp. z o.o.",
+    "country": "PL",
+    "email": "noc@ambit24.net",
+    "name": "Abuse-C Role AMBIT",
+    "network": "178.212.216.0/21",
+    "phone": "+48 61 861 49 35"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}
+
+{
+  "ip": "178.212.218.20",
+  "hostname": "ip-178-212-218-20.ambit24.net",
+  "geo": {
+    "city": "Lubartów",
+    "region": "Lublin",
+    "region_code": "06",
+    "country": "Poland",
+    "country_code": "PL",
+    "continent": "Europe",
+    "continent_code": "EU",
+    "latitude": 51.46026,
+    "longitude": 22.60952,
+    "timezone": "Europe/Warsaw",
+    "postal_code": "21-100",
+    "geoname_id": "765927",
+    "radius": 10
+  },
+  "as": {
+    "asn": "AS197262",
+    "name": "AMBIT SYSTEMY INFORMATYCZNE SP. Z O.O.",
+    "domain": "ambit24.net",
+    "type": "isp",
+    "last_changed": "2021-05-01"
+  },
+  "mobile": {},
+  "anonymous": {
+    "is_proxy": false,
+    "is_relay": false,
+    "is_tor": false,
+    "is_vpn": false
+  },
+  "is_anonymous": false,
+  "is_anycast": false,
+  "is_hosting": false,
+  "is_mobile": false,
+  "is_satellite": false
+}
+
+{
+  "ip": "178.212.218.20",
+  "hostname": "ip-178-212-218-20.ambit24.net",
+  "geo": {
+    "city": "Lubartów",
+    "region": "Lublin",
+    "region_code": "06",
+    "country": "Poland",
+    "country_code": "PL",
+    "continent": "Europe",
+    "continent_code": "EU",
+    "latitude": 51.46026,
+    "longitude": 22.60952,
+    "timezone": "Europe/Warsaw",
+    "postal_code": "21-100"
+  },
+  "as": {
+    "asn": "AS197262",
+    "name": "AMBIT SYSTEMY INFORMATYCZNE SP. Z O.O.",
+    "domain": "ambit24.net",
+    "type": "isp"
+  },
+  "is_anonymous": false,
+  "is_anycast": false,
+  "is_hosting": false,
+  "is_mobile": false,
+  "is_satellite": false
+}
+
+{
+  "ip": "178.212.218.20",
+  "asn": "AS197262",
+  "as_name": "AMBIT SYSTEMY INFORMATYCZNE SP. Z O.O.",
+  "as_domain": "ambit24.net",
+  "country_code": "PL",
+  "country": "Poland",
+  "continent_code": "EU",
+  "continent": "Europe"
+}
+
+
+---------------------------
+RAPORT PUBLICZNY: 178.212.218.20
+(WSZYSTKO, CO UDOSTĘPNIONE JEST PUBLICZNIE — WHOIS/RDAP, ASN, BGP, GEOIP, RDNS, hosty)
+Data zbioru: (wyniki publiczne z szeregu serwisów; snapshot wykonany w czasie zapytania)
+
+1) Podstawowe
+---------------------------
+IP:                         178.212.218.20
+Adres CIDR (blok):         178.212.216.0/21
+Zakres IP:                 178.212.216.0 - 178.212.223.255
+ASN:                       AS197262
+ASN owner:                 AMBIT SYSTEMY INFORMATYCZNE SP. Z O.O.
+Netname / opis bloku:      Ambit-NET / AMBIT SYSTEMY INFORMATYCZNE (wg RIPE/IPinfo)
+Registry:                  RIPE NCC (RIR dla Europy)
+Kraj rejestracji:          Polska (PL)
+Reverse DNS (typowy wzorzec w bloku): *.ambit24.net
+Źródła (summary):          IPinfo, RIPE DB, DNSLytics, BGP tools, IP2Location, Browserscan. 
+                           (zob. lista źródeł na dole). 
+                           Najważniejsze wpisy: AS197262, 178.212.216.0/21.  [oai_citation:4‡ipinfo.io](https://ipinfo.io/AS197262?utm_source=chatgpt.com)
+
+2) WHOIS / RDAP (agregat publicznych pól)
+---------------------------
+(inetnum / route object publicznie widoczny dla 178.212.216.0/21 — skondensowany)
+inetnum: 178.212.216.0 - 178.212.223.255
+netname: AMBIT-NET
+descr:   AMBIT SYSTEMY INFORMATYCZNE (Bogdan Kozicki / Ambit24)
+country: PL
+org:     ORG-ASIS9-RIPE (organizacja powiązana z Ambit)
+status:  ASSIGNED PI
+mnt-by:  MNT-AMBIT (oraz inne mnty wskazane w RIPE DB)
+created: 2010-09-20 (data wpisu routingu / przydziału w RIPE)
+last-modified: (widoczne w publicznym RIPE DB)
+abuse-c / admin-c / tech-c: (publiczne referencje kontaktów w RIPE DB — pełne dane kontaktowe bywają ograniczone/zmaskowane przez politykę prywatności/GDPR w RIPE)
+
+Uwaga: pełne dane kontaktowe (adresy e-mail/telefon) mogą być częściowo ukryte w publicznym wycinku RDAP/WHOIS z powodu polityk prywatności; dokładne pola dostępne są w usłudze RIPE DB/RDAP.  [oai_citation:5‡RIPE Network Coordination Center](https://www.ripe.net/manage-ips-and-asns/db/?utm_source=chatgpt.com)
+
+3) BGP / routowanie / informacje o ASN
+---------------------------
+ASN: AS197262
+AS name: AMBIT SYSTEMY INFORMATYCZNE SP. Z O.O.
+Zarejestrowane prefixy (przykładowo): 178.212.216.0/21
+Liczba adresów IPv4 w ASN (agregaty): ~2,048 (1 prefix /21).  [oai_citation:6‡ipinfo.io](https://ipinfo.io/AS197262?utm_source=chatgpt.com)
+Upstreams / peers: (widoczne w narzędziach BGP/peeringdb — kilka peeringów i 2 upstreams wg raportów publicznych).  [oai_citation:7‡bgp.tools](https://bgp.tools/as/197262?utm_source=chatgpt.com)
+
+4) Geolokalizacja (agregat różnych providerów — uwaga: GEOIP to ESTYMACJA)
+---------------------------
+- ipinfo (przykładowy wynik dla bloku): kraj: PL, lokalizacja: Warszawa (przybliżenie); pingowalność w PL.  [oai_citation:8‡ipinfo.io](https://ipinfo.io/AS197262/178.212.216.0/21?utm_source=chatgpt.com)
+- IP2Location / ipip / inne agregatory — zgłaszają kraj: PL, przybliżona lokalizacja w Polsce (dokładność miast bywa zmienna między bazami).  [oai_citation:9‡ip2location.com](https://www.ip2location.com/as197262?utm_source=chatgpt.com)
+Uwaga: różne bazy (MaxMind, IP2Location, ipinfo, DB-IP) mogą wskazywać różne miasta; nie można z tego wywnioskować lokalizacji osoby fizycznej — tylko przypisanie bloku do organizacji/dostawcy. 
+
+5) Reverse DNS / hostnames / odwrotne rekordy
+---------------------------
+- W wielu hostach w tym bloku pojawia się rdns kończący się na ambit24.net / ambit24.pl (przykłady adresów z tego bloku i hostnames widoczne w listingach).  [oai_citation:10‡ipinfo.io](https://ipinfo.io/AS197262/178.212.216.0/21?utm_source=chatgpt.com)
+
+6) Domeny / hosty powiązane (reverse IP / hosted domains) — przykłady
+---------------------------
+Przykładowe hosty / domeny zgłaszane jako hostowane w obrębie 178.212.216.0/21 (z agregatorów reverse-IP):
+- ambit24.pl / ambit24.net / ambit24.com (powiązane z usługami firmy Ambit)
+- betax.pl / rolltorq.eu / pup-lubartow.pl / inne (lista przykładowa z agregatorów hostingu)
+(Uwaga: lista domen może się zmieniać; agregatory pokazują aktualne skany HTTP/DNS).  [oai_citation:11‡ipinfo.io](https://ipinfo.io/AS197262/178.212.216.0/21?utm_source=chatgpt.com)
+
+7) Bazy nadużyć / reputacja
+---------------------------
+- AbuseIPDB / inne: przy szybkim sprawdzeniu nie znalazłem (w publicznym, szybkich zapytaniu) powszechnie zgłaszanych, masowych raportów dla 178.212.218.20 (usługi takie jak AbuseIPDB wymagają często ręcznego zapytania lub API — podczas mojego zbiorczego przeglądu strony głównej nie zwrócono szczegółowego wpisu dla tej IP bez dodatkowego zapytania). Jeśli chcesz, wykonam dedykowane zapytanie do AbuseIPDB/API (wymaga loginu/API key by pobrać pełny raport).  [oai_citation:12‡abuseipdb.com](https://www.abuseipdb.com/?utm_source=chatgpt.com)
+
+8) Shodan / Censys / skany usług
+---------------------------
+- Shodan / Censys: obie usługi skanują publiczny internet, ale wiele szczegółowych wyników wymaga konta/logowania lub API. Przy szybkich zapytaniach publicznych nie uzyskałem pełnych publicznych bannerów dla tego IP (brak widocznych, publicznych wyników bez logowania). Mogę spróbować wykonać szczegółowe zapytanie, jeśli dasz zgodę na użycie wybranego konta / API.  [oai_citation:13‡Censys](https://search.censys.io/?utm_source=chatgpt.com)
+
+9) Co NIE można uzyskać (ograniczenia / etyka)
+---------------------------
+- Nie można z publicznych rejestrów uzyskać “tożsamości osoby korzystającej z IP” — rejestry pokazują właściciela przydziału (firmę/dostawcę), nie użytkownika końcowego.  
+- Nie wykonuję ani nie pomagam w działaniach naruszających prywatność (doxxing, nieautoryzowane śledzenie).
+- Skany portów/otrzymywanie danych prywatnych wymagają uprawnień/zgód i mogą być nielegalne w zależności od jurysdykcji.
+
+10) Lista źródeł wykorzystanych w raporcie (publiczne)
+---------------------------
+(kliknij / odwiedź te strony, aby zobaczyć surowe rekordy i szczegóły)
+- IPinfo — blok 178.212.216.0/21 (detale, hosted domains).  [oai_citation:14‡ipinfo.io](https://ipinfo.io/AS197262/178.212.216.0/21?utm_source=chatgpt.com)  
+- IPinfo — AS197262 (ASN summary).  [oai_citation:15‡ipinfo.io](https://ipinfo.io/AS197262?utm_source=chatgpt.com)  
+- DNSLytics / BGP tools — info o routingu i ASN.  [oai_citation:16‡dnslytics.com](https://dnslytics.com/bgp/197262?utm_source=chatgpt.com)  
+- Browserscan / agregatory bloków — lista hostów w bloku.  [oai_citation:17‡BrowserScan](https://www.browserscan.net/de/ip-range/AS197262/178.212.216.0/21?utm_source=chatgpt.com)  
+- RIPE DB / RDAP (interfejs publiczny — narzędzia RIPE).  [oai_citation:18‡RIPE Network Coordination Center](https://www.ripe.net/manage-ips-and-asns/db/?utm_source=chatgpt.com)  
+- Who.is (WHOIS/RDAP aggregator).  [oai_citation:19‡who.is](https://who.is/?utm_source=chatgpt.com)  
+- IP2Location / ipip / inne agregatory ASN.  [oai_citation:20‡ip2location.com](https://www.ip2location.com/as197262?utm_source=chatgpt.com)  
+- Przeglądarki WHOIS / NASK (dla domen .pl gdyby były powiązane).  [oai_citation:21‡DNS.pl](https://www.dns.pl/whois?utm_source=chatgpt.com)  
+- PeeringDB (informacje o peeringu i polityce).  [oai_citation:22‡peeringdb.com](https://www.peeringdb.com/net/11852?utm_source=chatgpt.com)  
+- Abstractions: AbuseIPDB, Shodan, Censys (informacje o potrzebie logowania/API).  [oai_citation:23‡abuseipdb.com](https://www.abuseipdb.com/?utm_source=chatgpt.com)
+
+(Jeśli chcesz dokładne URL-e do każdego rekordu — mogę je wypisać w następnym kroku; powyższe odsyłacze to skrócone identyfikatory źródeł użytych do generowania raportu.)
+
+---------------------------
+KONIEC RAPORTU
+---------------------------
